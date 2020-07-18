@@ -1,0 +1,8 @@
+I have made the landing page of my restaurant website.
+1)Name of my website is "Delightful Treat"
+2) I used bootstrap navbar for my website navbar
+3)I used a banner image from pixels.com for my landing page 
+4)In the navbar I have Home,About,Menu,photogallery,contact us sections
+5)On the landing page I have my website name and a tag line.
+6)I am working on my about section.
+ 
