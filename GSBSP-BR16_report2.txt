@@ -1,0 +1,4 @@
+I have completed my about section as well as half the menu section is complete.
+I have used bootstrap cards.
+i took images from pexels
+i used color pallete for colors for my website
