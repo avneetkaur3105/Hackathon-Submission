@@ -1,0 +1,5 @@
+I have completed my entire website 
+I used HTML,CSS and javascript and bootstrap.
+fontawesome for icons 
+pexels for pictures 
+google fonts
